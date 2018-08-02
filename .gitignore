@@ -1,0 +1,4 @@
+*.o
+*.crf
+OBJ/
+DSPLIB/arm_cortexM4lf_math.lib
